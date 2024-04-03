@@ -1,4 +1,4 @@
-export async function getData() {
+async function getData() {
     return {
         name: 'John Doe',
     }
